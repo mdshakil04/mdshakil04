@@ -24,10 +24,7 @@ Skills: JavaScript/ REACT / BootStrap/Tailwind/Meterial UI/ HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshakil04)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdshakil04&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdshakil04)  
-
-![GitHub metrics](https://metrics.lecoq.io/mdshakil04)  
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdshakil04&theme=outrun)](https://git.io/streak-stats)
   
 
