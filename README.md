@@ -28,7 +28,7 @@ Skills: JavaScript/ REACT / BootStrap/Tailwind/Meterial UI/ HTML / CSS
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdshakil04)  
 
 ![GitHub metrics](https://metrics.lecoq.io/mdshakil04)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdshakil04)  
+![mdshakil04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdshakil04&theme=cobalt&hide_border=false)
+  
 
 
