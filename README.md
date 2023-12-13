@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React**
 
-- 📫 How to reach me **https://www.linkedin.com/in/md-shakil-9165a0215/**
+- 📫 My Portfolio website **https://md-shakil.netlify.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
