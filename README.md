@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshakil04&show_icons=true&locale=en" alt="mdshakil04" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mdshakil04&theme=navy-gear&border_radius=5&card_width=800)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mdshakil04&theme=navy-gear" alt="GitHub Streak" /></a>
